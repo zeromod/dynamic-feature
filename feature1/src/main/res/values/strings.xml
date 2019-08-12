@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="intro">This is a dynamic module from Feature 1</string>
+</resources>
